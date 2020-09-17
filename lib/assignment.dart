@@ -1,3 +1,5 @@
-int calculate() {
-  return 6 * 7;
+ int value = 0;
+while(value<=10){
+  print(value);
+  value++; 
 }
